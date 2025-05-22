@@ -62,7 +62,7 @@ EduCam AI is an innovative, AI-powered classroom monitoring system that automate
   - `python-telegram-bot`
   - `gspread`, `oauth2client` (Google Sheets)
 
-![Block Diagram]()
+![Block Diagram](https://github.com/5azkon/Educam-AI/blob/main/IMAGE_DATAS/Block%20diagram.png)
 ---
 
 ## 🧪 Functional Modules
