@@ -119,5 +119,5 @@ EduCam AI is an innovative, AI-powered classroom monitoring system that automate
 ## 👨‍💻 Authors
 
 - **Fiaz Khan A** – [LinkedIn](https://www.linkedin.com/in/mr-5azkon)
-- **Karthikeyan S** – [LinkedIn](https://www.linkedin.com/in/karthikeyan)
+- **Karthikeyan S** – [LinkedIn](https://www.linkedin.com/in/karthikeyan-sde)
 ----
