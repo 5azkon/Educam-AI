@@ -47,7 +47,7 @@ EduCam AI is an innovative, AI-powered classroom monitoring system that automate
 | Power Supply    | 5V 3A USB-C Adapter                  |
 | Micro SD Card   | 16GB Class 10 / UHS-I                |
 
-![Graphical Represtation]()
+![Graphical Represtation](https://github.com/5azkon/Educam-AI/blob/main/IMAGE_DATAS/Educam%20AI%20circuit%20diagram.jpg)
 ---
 
 ## 🛠️ Software Stack
@@ -62,6 +62,7 @@ EduCam AI is an innovative, AI-powered classroom monitoring system that automate
   - `python-telegram-bot`
   - `gspread`, `oauth2client` (Google Sheets)
 
+![Block Diagram]()
 ---
 
 ## 🧪 Functional Modules
