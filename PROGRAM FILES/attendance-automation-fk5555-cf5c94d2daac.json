@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "attendance-automation-fk5555",
+  "private_key_id": "cf5c94d2daacb85ce5e4424289b5add5d58e2d82",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDcFKFQy0zv52uD\nKzCkOl1+mWDUwWLct8COE1AeGGYe53TlyYSF5qGjHktV2+h3I/IJDFNwwP5vXtnz\nq7hUD20tu+jan4CJFS2+Lqco96tgPA5lKbblr9/MGowDi2mjcvD2hX/ZsR1U1fGl\n7iBRrL1a1nOfp2y3NsL6ViT0+5Vnk55v66+zZ8Oj1KJCmQiiNgvC9Tvz4vNkWbNn\nFNTayWGys8RorZHKxvWLCozqa+xwcKd+4aHlW9x/k2zTaQSW6fKg25lJ7AEy+g1x\nZHkcn9F/25VgflR2qnA+yarFTTkJzmqzQuuo8jSXnNMtc/DUJ0x430j23b4z3rQa\n/FV0OGYVAgMBAAECggEAElf73Cad2o8w9GVor/+XZGJ3YjReP6RnPdBZSLDi7id/\npFmIHLsM9PIk+FqUhT2vQlbPK6JCctj2lKtW+Vax1HKJpZNO3N4xil0MHMuL8sD+\nuCribkGbB0GdMvxvSSre78VP0z7CgZw1gI2ZDwW1YLloOMH1O04qsT/145+Go/PP\n2RDLauI+6CCGL/s/8Occf8vg2Nzqlm8ksp10jd0UW+5ikROuT54EVoADy1LDfDCi\n0nE+Q9RM+9ThBu80zX+UOFE0qB+MfFOdtFDVLHifQ7mlsGwupu/jfyg7i8W47xm3\nyrz40n4QA3ZzwC2NFzCoTeDsH063UOosnXzoGpopfwKBgQDxzG/GRE760Pmp53Wx\nFHG9tJgZmKXAPgJAU3+9ZXMWXOkFPpd7KXTyXQEeznE11SrPdHVNv43jk+mbFxGV\nH2YCTLLUfAUyDKOf8HZTfB7la+Xu2HzcPvRxgWVniLYWWFBSN6K4Zxm6lUOK6bDB\nvl8zAEvxIdtvPeALR/zKjQDxmwKBgQDpAacNRv8EvxrhFlfbnLbb97XXyGwRLf5C\nXyUfjRFkbkp6NFCOxywBy+iQYAxL8amqb/n96aZ5Uw3P9q1x6u0L9eTQ1UvwUATt\nlr6CW8khTOGYp+1EbRyV7JLuPy3F+rBFB7dfQ92/pjy7Q+mNw7WcjPmCO+6ejhJ1\nYd13qimaDwKBgCOfQaxM7fHHjbB5N/6Bi4wuKeZDdc/PktdVNdF6O61EvNOX+Asd\n/WujRgH62fTbVbZAavOsT8QCS30ctetpN8cI86OYLc/EyupKK7R66bZU4ggA/swX\nvj1mmcDaBDFgi1zBc4iFL+YsDUpOyUqRuEa0OXvpyAEodXRUA6r3gPcXAoGBAJwz\nTWerNn5aFozaS5+fmT4w+yhi5X9G0/JukhZqnUQ0Y500wORWRPwXVBqlKNkoclMd\nqfs7zSv8L4BAn9mEYdDo0LHmq3e4TPVxXtlI6rZ2Ma4CtR5v/v/Kjl1E4UydV9mO\n6LDmcBtwN7paNpGgp3kBUKqrvrVwDJPAPZVg726lAoGBALdZpddC2fBJnTdydsTr\n1VoYNFOn4QxYve8k5sTcK+UaLGJ8/rr0UnYxdi/NIdUrBlOfnCCWphPsynmVcfGb\n6Eydf4VyOOJUfdPMxhZWv8/QOr53zhht0W2IXXOOGs6ilXPwDvRS+gSWsVwUXcS5\nf44CGPyP+BRZjvGwItBnsfFI\n-----END PRIVATE KEY-----\n",
+  "client_email": "attendance-automation-sheet@attendance-automation-fk5555.iam.gserviceaccount.com",
+  "client_id": "106975930008308172664",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/attendance-automation-sheet%40attendance-automation-fk5555.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
