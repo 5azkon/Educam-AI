@@ -1,4 +1,4 @@
-# 📚 EduCam AI - Smart Event Driven Classroom Monitoring & Real-Time Alerts
+# EduCam AI - Smart Event Driven Classroom Monitoring & Real-Time Alerts
 
 EduCam AI is an innovative, AI-powered classroom monitoring system that automates attendance, enhances security, and provides real-time alerts for critical classroom events. Designed to be efficient, scalable, and cost-effective, the system combines edge computing, facial recognition, gesture detection, and animal intrusion detection using affordable hardware like Raspberry Pi and H.265 IP cameras.
 
